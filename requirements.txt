@@ -1,0 +1,11 @@
+spacy
+torch
+dotenv
+pandas
+wordcloud
+scikit-learn
+nltk
+numpy
+textblob
+tweepy
+tensorflow
